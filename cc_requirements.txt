@@ -1,0 +1,11 @@
+CC Validator:
+* prefix(es) must match the length
+* Visa: 4123563478973632
+    Prefix(es): 4
+    Length: 16
+* MasterCard: 5123645787098736
+    Prefix(es): 51 through 55 and 2221 throgh 2720
+    Length: 16
+* American Express: 372364578709873
+    Prefix(es): 34 and 37
+    Length: 15
